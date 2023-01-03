@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e9ab00b4.css",
+    "main.js": "/portfolio/static/js/main.4fbbd08a.js",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/node.svg": "/portfolio/static/media/node.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/java.svg": "/portfolio/static/media/java.a9fb941302eb9dc0db6414bfc301f010.svg",
+    "static/media/electron.svg": "/portfolio/static/media/electron.743c23e7a34248cdd76928344973da94.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/angular.svg": "/portfolio/static/media/angular.1fd4bbed6c6768b2fc3d823e861ebd80.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/react.svg": "/portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.e9ab00b4.css.map": "/portfolio/static/css/main.e9ab00b4.css.map",
+    "main.4fbbd08a.js.map": "/portfolio/static/js/main.4fbbd08a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ab00b4.css",
+    "static/js/main.4fbbd08a.js"
+  ]
+}
